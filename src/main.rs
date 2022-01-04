@@ -1,5 +1,5 @@
-mod vector;
+mod strings;
 
 fn main() {
-  crate::vector::vector_fn()
+  crate::strings::string_collection();
 }
